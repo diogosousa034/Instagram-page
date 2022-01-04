@@ -41,9 +41,13 @@ ul {
   margin-left: 1em;
 }
 
-.secondary-desc-2 .personal-name {
+.personal-name {
   padding-top: .8em;
   font-weight: bold;
+}
+
+.SD2 {
+  padding-left: 10px;
 }
 
 .stats {
@@ -180,6 +184,10 @@ ul {
   margin: 0;
   padding: 5px;
   border-radius: 5em;
+}
+
+.sm {
+  max-width: 120px;
 }
 
 .foto-zoom-background {

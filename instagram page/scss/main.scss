@@ -37,11 +37,15 @@ ul{
 
 .secondary-desc-2{
     margin-left: 1em;
+}
 
-    .personal-name{  
-        padding-top: .8em;      
-        font-weight: bold;
-    }  
+.personal-name{  
+    padding-top: .8em;      
+    font-weight: bold;
+}
+
+.SD2{
+    padding-left: 10px;
 }
 
 .stats{
@@ -188,6 +192,10 @@ ul{
     border-radius: 5em;
 }
 
+.sm{
+    max-width: 120px;
+}
+
 
 .foto-zoom-background{
     display: none;
@@ -233,3 +241,6 @@ ul{
     display: flex;
     border-bottom: 1px solid rgba(var(--b38,219,219,219),1);
    }
+
+
+
