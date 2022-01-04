@@ -235,4 +235,21 @@ ul {
   display: flex;
   border-bottom: 1px solid rgba(var(--b38, 219, 219, 219), 1);
 }
+
+.gallery {
+  padding: 80px 0;
+}
+
+.jkbsg {
+  max-width: 100%;
+}
+
+.gallery img {
+  width: 100%;
+  cursor: pointer;
+}
+
+#gallery-modal {
+  width: 100%;
+}
 /*# sourceMappingURL=main.css.map */
