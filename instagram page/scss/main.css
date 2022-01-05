@@ -242,6 +242,9 @@ ul {
 
 .jkbsg {
   max-width: 100%;
+  max-height: 290px;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 .gallery img {
